@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ATBProfilatico/app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AppComponentes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AppConsumo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AppNetflix" vcs="Git" />
+  </component>
+</project>
